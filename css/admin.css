@@ -1,0 +1,96 @@
+/*
+    Author name Blessing
+    Theme food Order Website
+    Version:8.0
+ */
+ *{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+ }
+ .wrapper{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+ }
+ .text-center{
+    text-align: center;
+ }
+ .clearfix{
+    float: none;
+    clear:both ;
+ }
+
+.tbl-full{
+   width: 100%;
+   /* background-color: green; */
+ }
+ table tr th{
+   border-bottom: 1px solid black;
+   padding: 1%;
+   text-align: left;
+ }
+ table  tr td{
+   padding: 1%;
+ }
+ .btn-primary{
+   background-color:#1e90ff ;
+   padding: 1%;
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+ }
+ .btn-primary:hover{
+   background-color:#3742fa ;
+ }
+ 
+ .btn-secondary{
+   background-color:#1e90ff !important;
+   padding: 1%;
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+ }
+ .btn-secondary:hover{
+   background-color:#3742fa ;
+ }
+
+ 
+ /* footer css starts here */
+ .footer{
+    background-color: #ff4757;
+    color: white;
+ }
+ /* menu starts here */
+ .menu{
+    text-align: center;
+    border-bottom: 1px solid grey;
+ }
+ .menu ul{
+    list-style-type: none;
+    
+ }
+ .menu ul li{
+   display: inline;
+   padding: 1%;
+ }
+ .menu ul li a{
+    text-decoration: none;
+    color: #ff6b81;
+    font-weight: bold;
+ }
+ .menu ul li a:hover{
+     color: #ff4757;
+ }
+ /* ccs for main content */
+ .main-content{
+    background-color: #f1f2f6;
+    padding: 2% 0;
+ }
+ .col-4{
+    width:17% ;
+    background-color: white;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+ }
