@@ -45,14 +45,24 @@
  }
  
  .btn-secondary{
-   background-color:#1e90ff !important;
+   background-color:#7bcab0 !important;
    padding: 1%;
    color: white;
    text-decoration: none;
    font-weight: bold;
  }
  .btn-secondary:hover{
-   background-color:#3742fa ;
+   background-color:#2bb3a7 ;
+ }
+ .btn-danger{
+   background-color:#ce5858 !important;
+   padding: 1%;
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+ }
+ .btn-danger:hover{
+   background-color:#be2020 ;
  }
 
  
